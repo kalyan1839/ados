@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'oblik';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../plugins/Oblik/Oblik_Bold.otf) format("opentype");;
+}
+
+@font-face {
+  font-family: 'pt-sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../plugins/pt-sans/PTC55F.ttf) format('truetype');
+}

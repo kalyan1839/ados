@@ -1,0 +1,20 @@
+{
+  "name": "ados",
+  "authors": [
+    "Kalyan Yedakula <kalyan@cyware.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lightgallery": "^1.6.1"
+  }
+}

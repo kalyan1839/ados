@@ -1,0 +1,22 @@
+$font1: 'PT Sans', sans-serif;
+$font2: 'oblik, sans-serif';
+
+body 
+{
+	font-family: $font1;
+	background: #ffffff;
+}
+
+.title-row
+{
+	padding: 45px 10px 40px;
+	h2
+	{
+		font-family: $font1;
+		text-transform: uppercase;
+		color: #00bcd4;
+		font-weight: 600;
+		font-size: 35px;
+		letter-spacing: 3px;
+	}
+}
